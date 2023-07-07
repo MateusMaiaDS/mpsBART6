@@ -1,12 +1,12 @@
 
-# spBART5
+# mpsBART6
 
 
 ## Installation
 
-You can install the development version of mpsBART5 from [GitHub](https://github.com/) with:
+You can install the development version of mpsBART6 from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("MateusMaiaDS/mpsBART5")
+devtools::install_github("MateusMaiaDS/mpsBART6")
 ```
